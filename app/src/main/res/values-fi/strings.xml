@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App 2</string>
+    <string name="show_forecast">Näytä Ennuste</string>
+    <string name="clear_sky">taivas on selkeä</string>
+    <string name="refresh">Päivitä</string>
+    <string name="back">takaisin</string>
+    <string name="forecast">Ennuste</string>
+    <string name="LOCATION_NOT_KNOWN">tuntematon sijainti</string>
+    <string name="open_www_tuni_fi">Avaa www.tuni.fi</string>
+    <string name="set_alarm">Aseta hälytys</string>
+    <string name="show_tamk_on_the_map">Näytä TAMK kartalla</string>
+    <string name="weather_icon">Sääkuvake</string>
+</resources>

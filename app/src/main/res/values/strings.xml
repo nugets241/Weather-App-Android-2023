@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App 2</string>
+    <string name="show_forecast">Show Forecast</string>
+    <string name="clear_sky">clear sky</string>
+    <string name="refresh">Refresh</string>
+    <string name="back">Back</string>
+    <string name="forecast">Forecast</string>
+    <string name="LOCATION_NOT_KNOWN">Location not known</string>
+    <string name="open_www_tuni_fi">Open www.tuni.fi</string>
+    <string name="set_alarm">Set alarm</string>
+    <string name="show_tamk_on_the_map">Show TAMK on the map</string>
+    <string name="_2_m_s" translatable="false">2 m/s</string>
+    <string name="tampere" translatable="false">Tampere</string>
+    <string name="_3_c" translatable="false">-3 °C</string>
+    <string name="weather_icon">Weather icon</string>
+</resources>
